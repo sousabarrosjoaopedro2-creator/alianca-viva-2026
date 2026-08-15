@@ -3,7 +3,7 @@
 #
 # Author: João Pedro Sousa Barros
 # Description: This script creates a directory structure for books of the Bible,
-# fetches chapter content from the ACF Bible website, and saves verses as text files.
+# fetches chapter content from the AVA Bible website, and saves verses as text files.
 # License: CC0 1.0 Universal
 
 from bs4 import BeautifulSoup
